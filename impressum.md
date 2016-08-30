@@ -16,7 +16,7 @@ Christian Vervoorts
 ### Kontakt
 
 Telefon: 0221-63061793   
-eMail: cv@vervoorts.net
+eMail: mail ät vervoorts punkt net
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:    
 Christian Vervoorts    
