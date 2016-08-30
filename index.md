@@ -22,7 +22,7 @@ This is the personal Webpage of Christian Vervoorts
 ## About me
 
 <div style="float: right">
-    <img src="{{ "/assets/me.png" | prepend: site.baseurl }}" alt="This is me :D">
+    <img src="{{ "/assets/me.png" | prepend: site.github.url }}" alt="This is me :D">
 </div>
 
 I like working with Computers, Operating Systems, Servers and building things. I studied in computer science at Hochschule Niederrhein, University of Applied Sciences in Germany.
