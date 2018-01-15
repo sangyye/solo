@@ -29,7 +29,7 @@ I like working with Computers, Operating Systems, Servers and building things. I
 
 When I'm not behind a computer (yes, this is possible, sometimes), I enjoy playing board games and mind puzzles. Also being outside and doing some hiking is an option.
 
-This site is complete build with [jekyll](http://jekyllrb.com/). This blog is served by the awesome [uberspace.de](https://uberspace.de). Thanks, to Jekyll, no database and dynamic code is used on the server site. You can find the source code on [github](https://github.com/sangyye/website).
+This site is complete build with [jekyll](http://jekyllrb.com/). This blog is served by the awesome [netlify](https://www.netlify.com/). Thanks, to Jekyll, no database and dynamic code is used on the server site. You can find the source code on [github](https://github.com/sangyye/website).
 
 ### Contact
 
