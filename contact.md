@@ -16,3 +16,5 @@ permalink: /contact/
     <button type="submit">Send</button>
   </p>
 </form>
+
+Back to [site]({{ "/" | prepend: site.github.url }})

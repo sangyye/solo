@@ -33,4 +33,4 @@ This site is complete build with [jekyll](http://jekyllrb.com/). This blog is se
 
 ### Contact
 
-If you have to contact me you can reach me via [Twitter](https://twitter.com/sangyye) 
+You can reach me via my [contact form]({{ "/contact/" | prepend: site.github.url }}) or [Twitter](https://twitter.com/sangyye).
