@@ -11,6 +11,7 @@ This is the personal Webpage of Christian Vervoorts
 * [Nerdmate Podcast](http://nerdmate.de) (In German)
 * [Wiki](http://wiki.sangyye.de)
 * [Twitter](https://twitter.com/sangyye)
+* <a rel="me" href="https://mastodon.social/@sangyye">Mastodon</a>
 * [Github](https://github.com/sangyye)
 * [Pinboard](http://pinboard.in/u:sangyye)
 * [Keybase](https://keybase.io/sangyye)
