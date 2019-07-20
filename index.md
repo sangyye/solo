@@ -8,13 +8,20 @@ This is the personal Webpage of Christian Vervoorts
 
 * [My Personal Blog](https://sangyye.de) (In German)
 * [The Uberblock](http://uberblock.de)
-* [Nerdmate Podcast](http://nerdmate.de) (In German)
 * [Wiki](http://wiki.sangyye.de)
 * [Twitter](https://twitter.com/sangyye)
 * <a rel="me" href="https://mastodon.social/@sangyye">Mastodon</a>
 * [Github](https://github.com/sangyye)
 * [Pinboard](http://pinboard.in/u:sangyye)
 * [Keybase](https://keybase.io/sangyye)
+
+## Projects
+
+### Retired Projects
+
+[Nerdmate Podcast](http://nerdmate.de) (2012-2013)
+> A german Podcast  where I talk with guests about technology and interesting tech projects they like.
+> I retired the Podcast because out of time problems, finding guest and topics. Also I was losing interest in doing this kind of format.
 
 ## Talks
 
