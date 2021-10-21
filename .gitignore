@@ -1,4 +1,6 @@
 _site
 .jekyll-metadata
-Gemfile.lock
+.jekyll-cache/
+.ruby-version
 .sass-cache
+Gemfile.lock
