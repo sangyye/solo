@@ -3,6 +3,8 @@
 ---
 @charset "utf-8";
 
+$baseurl: "{{ site.github.url }}";
+
 @import
   'normalize',
   'solo',
