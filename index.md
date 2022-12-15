@@ -10,7 +10,7 @@ This is the personal Webpage of Christian Vervoorts
 * [The Uberblock](http://uberblock.de)
 * [Wiki](http://wiki.sangyye.de)
 * [Twitter](https://twitter.com/sangyye)
-* <a rel="me" href="https://chaos.social/@sangyye">Mastodon</a> (and my <a rel=“me” href=“https://hachyderm.io/@sangyye”>Backup-Account</a>)
+* <a rel="me" href="https://chaos.social/@sangyye">Mastodon</a> (and my <a rel="me" href="https://hachyderm.io/@sangyye">Backup-Account</a>)
 * [Github](https://github.com/sangyye)
 * [Pinboard](http://pinboard.in/u:sangyye)
 * [Keybase](https://keybase.io/sangyye)
