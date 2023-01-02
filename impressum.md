@@ -6,9 +6,6 @@ permalink: /impressum/
 ## Impressum
 
 ## Angaben gemäß § 5 TMG
-Christian Vervoorts   
-Siegesstrasse 16   
-50679 Köln   
 
 Vertreten durch:   
 Christian Vervoorts   
@@ -18,9 +15,7 @@ Christian Vervoorts
 eMail: mail ät vervoorts punkt net
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:    
-Christian Vervoorts    
-Siegesstrasse 16   
-50679 Köln   
+Christian Vervoorts
 
 ### Haftung für Inhalte
 
